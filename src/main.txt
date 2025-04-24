@@ -4,3 +4,4 @@ commit 1
 commit 2
 Fix critical bugs
 new commit 1
+new commit 2
